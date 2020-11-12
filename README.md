@@ -1,0 +1,2 @@
+# zmays-snps
+learn informatics
