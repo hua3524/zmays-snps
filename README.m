@@ -5,3 +5,4 @@ samples expected from sequencing cor 2020-11-13
 something wrong
 hello world
 修改README.md名字
+\n\nMaize reference genome version: refgens
