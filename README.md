@@ -11,3 +11,4 @@ we downloaded refgen3 on 2013-01-04
 jiang 提交
 
 \nAdapter file: adapters.fa
+readme-changes
